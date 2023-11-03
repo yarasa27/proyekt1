@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.head{
+    background-color: rgb(6, 0, 61);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Elcan{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 70px;
+}
+.one{
+    width: 100%;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.p1{
+    color: rgb(21, 21, 250);
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.h1{
+    color: white;
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+.h3{
+    color: white;
+}
+.two{
+    width: 70%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.men, .sen{
+    width: 45%;
+    height: 40px;
+    border-radius: 5px;
+}
+.men{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(37, 37, 255);
+}
+.p2{
+    color: white;
+}
+.sen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p3{
+    color: rgb(37, 37, 255);
+}
+.Dodi{
+    width: 80%;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 25px;
+}
+.qutu, .qutu1, .qutu2{
+    width: 30%;
+    height: 100%;
+}
+.qutu, .qutu1{
+    background-color: white;
+}
+.qutu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bir{
+    width: 85%;
+}
+.sekil{
+    border-radius: 10px;
+}
+.sekil img{
+    width: 100%;
+    border-radius: 10px;
+    width: 60px;
+    height: 60px; 
+    object-fit: cover;
+}
+.p4{
+    padding-top: 10px;
+    font-weight: 900;
+    padding-bottom: 15px;
+}
+.line{
+    width: 20%;
+}
+.p5{
+    padding-top: 15px;
+    opacity: 0.8;
+}
+.qutu1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.iki{
+    width: 85%;
+}
+.sekil1{
+    border-radius: 10px;
+}
+.sekil1 img{
+    width: 100%;
+    border-radius: 10px;
+    width: 60px;
+    height: 60px; 
+    object-fit: cover;
+}
+.p6{
+    padding-top: 10px;
+    font-weight: 900;
+    padding-bottom: 15px;
+}
+.line1{
+    width: 20%;
+}
+.p7{
+    padding-top: 15px;
+    opacity: 0.8;
+}
+.qutu2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(37, 37, 255);
+}
+.uc{
+    width: 85%;
+}
+.sekil2{
+    border-radius: 10px;
+}
+.sekil2 img{
+    width: 100%;
+    border-radius: 10px;
+    width: 60px;
+    height: 60px; 
+    object-fit: cover;
+}
+.p8{
+    padding-top: 10px;
+    font-weight: 900;
+    padding-bottom: 15px;
+    color: white;
+}
+.line2{
+    width: 20%;
+}
+.p9{
+    padding-top: 15px;
+    color: white;
+}
